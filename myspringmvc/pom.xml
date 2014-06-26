@@ -70,7 +70,6 @@
     <build>
         <finalName>myspringmvc3</finalName>
         <plugins>
-
             <!-- jetty插件, 设定context path与spring profile -->
             <plugin>
                 <groupId>org.mortbay.jetty</groupId>
